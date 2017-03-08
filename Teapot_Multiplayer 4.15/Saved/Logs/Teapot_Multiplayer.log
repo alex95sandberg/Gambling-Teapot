@@ -9065,3 +9065,811 @@ Teapot_VRPawn3_C.ReceiveBeginPlay
 [2017.03.08-12.57.24:865][ 17]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_VRPawn_Auto2A46E760D4C673B97455E5EB9D4A1CEFB.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Autosaves/Game/Teapot_Content/Blueprints/Teapot_VRPawn_Auto2.uasset'
 [2017.03.08-12.57.24:868][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Autosaves/Game/Teapot_Content/Blueprints/Teapot_VRPawn_Auto2.uasset
 [2017.03.08-12.57.24:868][ 17]LogFileHelpers: Auto-saving content packages took 0.276
+[2017.03.08-13.02.10:638][695]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.03.08-13.03.46:915][ 35]BlueprintLog: New page: Compile Teapot_VRPawn
+[2017.03.08-13.06.46:397][637]LogSavePackage: Save=109.09ms
+[2017.03.08-13.06.46:397][637]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_Level_Test2000BB6594DF366510F2AA69EC28BE87D.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Maps/Teapot_Level_Test2.umap'
+[2017.03.08-13.06.46:403][637]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Maps/Teapot_Level_Test2.umap
+[2017.03.08-13.06.46:428][637]LogFileHelpers: Saving map 'Teapot_Level_Test2' took 0.206
+[2017.03.08-13.06.46:473][637]LogSavePackage: Save=28.24ms
+[2017.03.08-13.06.46:473][637]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_GameMode14E87F1E4F141C229551C3B530940257.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_GameMode.uasset'
+[2017.03.08-13.06.46:479][637]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_GameMode.uasset
+[2017.03.08-13.06.46:507][637]LogSavePackage: Save=11.44ms
+[2017.03.08-13.06.46:507][637]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_PlayPawnF33A7DCB4FE462A9EECABABA790C33D8.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_PlayPawn.uasset'
+[2017.03.08-13.06.46:513][637]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_PlayPawn.uasset
+[2017.03.08-13.06.46:694][637]LogSavePackage: Save=146.14ms
+[2017.03.08-13.06.46:694][637]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_VRPawnC88E57C54CF1784B6A40A5A8C1D82FF6.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_VRPawn.uasset'
+[2017.03.08-13.06.46:701][637]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_VRPawn.uasset
+[2017.03.08-13.22.37:495][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Teapot_Content/Maps/Teapot_Level_Test2' took 0.023
+[2017.03.08-13.22.37:497][757]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teapot_Content/Blueprints/Teapot_VRPawn] ([1] browsable assets)...
+[2017.03.08-13.22.37:509][757]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teapot_Content/Blueprints/Teapot_VRPawn.Teapot_VRPawn]
+[2017.03.08-13.22.37:509][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teapot_Content/Blueprints/Teapot_VRPawn]
+[2017.03.08-13.22.37:673][757]LogSavePackage: Save=149.33ms
+[2017.03.08-13.22.37:673][757]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_VRPawn_Auto3DF3C436942D63D76BD2B96B05A8271CB.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Autosaves/Game/Teapot_Content/Blueprints/Teapot_VRPawn_Auto3.uasset'
+[2017.03.08-13.22.37:676][757]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Autosaves/Game/Teapot_Content/Blueprints/Teapot_VRPawn_Auto3.uasset
+[2017.03.08-13.22.37:676][757]LogFileHelpers: Auto-saving content packages took 0.180
+[2017.03.08-13.27.12:492][ 81]BlueprintLog: New page: Compile Teapot_VRPawn
+[2017.03.08-13.27.17:888][617]LogAIModule: Creating AISystem for world Teapot_Level_Lobby
+[2017.03.08-13.27.19:636][617]LogSavePackage: Save=151.31ms
+[2017.03.08-13.27.19:636][617]LogSavePackage: Moving '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Saved/Teapot_VRPawn1CA232384C0A0A729AB0DFA2E5150908.tmp' to '../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_VRPawn.uasset'
+[2017.03.08-13.27.19:642][617]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student_VR/Documents/GitHub/Gambling-Teapot/Teapot_Multiplayer 4.15/Content/Teapot_Content/Blueprints/Teapot_VRPawn.uasset
+[2017.03.08-13.27.19:643][617]LightingResults: New page: Lighting Build
+[2017.03.08-13.27.19:644][617]LoadErrors: New page: Loading map: Teapot_Level_Lobby.umap
+[2017.03.08-13.27.19:645][617]MapCheck: New page: Map Check
+[2017.03.08-13.27.19:645][617]LightingResults: New page: Lighting Build
+[2017.03.08-13.27.19:832][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.08-13.27.19:857][617]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.08-13.27.19:894][617]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.275ms to complete.
+[2017.03.08-13.27.19:899][617]LogFileHelpers: Loading map 'Teapot_Level_Lobby' took 0.257
+[2017.03.08-13.27.21:976][857]LogTemp: Repeting last play command: VR Preview
+[2017.03.08-13.27.21:995][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.27.21:995][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.08-13.27.21:996][857]OCULUS: Debug: [HMDState] Using default profile default
+[2017.03.08-13.27.21:996][857]OCULUS: Info: IAD changed to 60.9mm
+[2017.03.08-13.27.21:996][857]LogHMD: New ovr session is created
+[2017.03.08-13.27.21:996][857]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.03.08-13.27.21:997][857]PIE: New page: PIE session: Teapot_Level_Lobby (Mar 8, 2017, 3:27:21 PM)
+[2017.03.08-13.27.21:997][857]LogPlayLevel: Creating play world package: /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby
+[2017.03.08-13.27.21:999][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001710s)
+[2017.03.08-13.27.22:000][857]LogAIModule: Creating AISystem for world Teapot_Level_Lobby
+[2017.03.08-13.27.22:000][857]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2017.03.08-13.27.22:000][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby to /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby (0.002644s)
+[2017.03.08-13.27.22:022][857]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.08-13.27.22:029][857]LogInit: FAudioDevice initialized.
+[2017.03.08-13.27.22:102][857]LogLoad: Game class is 'Teapot_GameMode_C'
+[2017.03.08-13.27.22:103][857]LogWorld: Bringing World /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby up for play (max tick rate 0) at 2017.03.08-14.27.22
+[2017.03.08-13.27.22:103][857]LogWorld: Bringing up level for play took: 0.000899
+[2017.03.08-13.27.22:115][857]LogBlueprintUserMessages: [Teapot_GameMode_C_0] OnPostLogin
+[2017.03.08-13.27.22:115][857]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.27.22:115][857]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.27.22:115][857]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.27.22:116][857]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.27.22:120][857]PIE: Info Play in editor start time for /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby 0.005
+[2017.03.08-13.27.22:120][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.27.22:129][857]LogHMD: Need to reallocate eye buffer, reason: no textureset was allocated
+[2017.03.08-13.27.22:132][857]LogHMD: Allocated a new swap texture set (size 2720 x 1600, mipcount = 1), 0x00000214A93BE4F0
+[2017.03.08-13.27.22:156][857]LogHMD: Orientation wasn't applied to a camera in frame 66543
+[2017.03.08-13.27.22:156][857]LogHMD: Orientation wasn't applied to a camera in frame 66543
+[2017.03.08-13.27.22:159][857]LogHMD: Allocated a new mirror texture (size 1280 x 720)
+[2017.03.08-13.27.22:159][857]LogHMD: Orientation wasn't applied to a camera in frame 66543
+[2017.03.08-13.27.22:169][858]LogHMD: Orientation wasn't applied to a camera in frame 66544
+[2017.03.08-13.27.22:170][858]LogHMD: Orientation wasn't applied to a camera in frame 66544
+[2017.03.08-13.27.22:171][858]LogHMD: Orientation wasn't applied to a camera in frame 66544
+[2017.03.08-13.27.22:177][859]LogHMD: Orientation wasn't applied to a camera in frame 66545
+[2017.03.08-13.27.22:177][859]LogHMD: Orientation wasn't applied to a camera in frame 66545
+[2017.03.08-13.27.22:178][859]LogHMD: Orientation wasn't applied to a camera in frame 66545
+[2017.03.08-13.27.22:187][860]LogHMD: Orientation wasn't applied to a camera in frame 66546
+[2017.03.08-13.27.22:187][860]LogHMD: Orientation wasn't applied to a camera in frame 66546
+[2017.03.08-13.27.22:189][860]LogHMD: Orientation wasn't applied to a camera in frame 66546
+[2017.03.08-13.27.22:195][861]LogHMD: Orientation wasn't applied to a camera in frame 66547
+[2017.03.08-13.27.22:195][861]LogHMD: Orientation wasn't applied to a camera in frame 66547
+[2017.03.08-13.27.22:196][861]LogHMD: Orientation wasn't applied to a camera in frame 66547
+[2017.03.08-13.27.22:202][862]LogHMD: Orientation wasn't applied to a camera in frame 66548
+[2017.03.08-13.27.22:202][862]LogHMD: Orientation wasn't applied to a camera in frame 66548
+[2017.03.08-13.27.22:204][862]LogHMD: Orientation wasn't applied to a camera in frame 66548
+[2017.03.08-13.27.22:209][863]LogHMD: Orientation wasn't applied to a camera in frame 66549
+[2017.03.08-13.27.22:209][863]LogHMD: Orientation wasn't applied to a camera in frame 66549
+[2017.03.08-13.27.22:211][863]LogHMD: Orientation wasn't applied to a camera in frame 66549
+[2017.03.08-13.27.22:218][864]LogHMD: Orientation wasn't applied to a camera in frame 66550
+[2017.03.08-13.27.22:218][864]LogHMD: Orientation wasn't applied to a camera in frame 66550
+[2017.03.08-13.27.22:219][864]LogHMD: Orientation wasn't applied to a camera in frame 66550
+[2017.03.08-13.27.22:225][865]LogHMD: Orientation wasn't applied to a camera in frame 66551
+[2017.03.08-13.27.22:225][865]LogHMD: Orientation wasn't applied to a camera in frame 66551
+[2017.03.08-13.27.22:226][865]LogHMD: Orientation wasn't applied to a camera in frame 66551
+[2017.03.08-13.27.22:233][866]LogHMD: Orientation wasn't applied to a camera in frame 66552
+[2017.03.08-13.27.22:233][866]LogHMD: Orientation wasn't applied to a camera in frame 66552
+[2017.03.08-13.27.22:234][866]LogHMD: Orientation wasn't applied to a camera in frame 66552
+[2017.03.08-13.27.22:240][867]LogHMD: Orientation wasn't applied to a camera in frame 66553
+[2017.03.08-13.27.22:240][867]LogHMD: Orientation wasn't applied to a camera in frame 66553
+[2017.03.08-13.27.22:241][867]LogHMD: Orientation wasn't applied to a camera in frame 66553
+[2017.03.08-13.27.22:248][868]LogHMD: Orientation wasn't applied to a camera in frame 66554
+[2017.03.08-13.27.22:248][868]LogHMD: Orientation wasn't applied to a camera in frame 66554
+[2017.03.08-13.27.22:249][868]LogHMD: Orientation wasn't applied to a camera in frame 66554
+[2017.03.08-13.27.22:256][869]LogHMD: Orientation wasn't applied to a camera in frame 66555
+[2017.03.08-13.27.22:256][869]LogHMD: Orientation wasn't applied to a camera in frame 66555
+[2017.03.08-13.27.22:257][869]LogHMD: Orientation wasn't applied to a camera in frame 66555
+[2017.03.08-13.27.22:263][870]LogHMD: Orientation wasn't applied to a camera in frame 66556
+[2017.03.08-13.27.22:263][870]LogHMD: Orientation wasn't applied to a camera in frame 66556
+[2017.03.08-13.27.22:264][870]LogHMD: Orientation wasn't applied to a camera in frame 66556
+[2017.03.08-13.27.22:271][871]LogHMD: Orientation wasn't applied to a camera in frame 66557
+[2017.03.08-13.27.22:271][871]LogHMD: Orientation wasn't applied to a camera in frame 66557
+[2017.03.08-13.27.22:272][871]LogHMD: Orientation wasn't applied to a camera in frame 66557
+[2017.03.08-13.27.22:279][872]LogHMD: Orientation wasn't applied to a camera in frame 66558
+[2017.03.08-13.27.22:279][872]LogHMD: Orientation wasn't applied to a camera in frame 66558
+[2017.03.08-13.27.22:280][872]LogHMD: Orientation wasn't applied to a camera in frame 66558
+[2017.03.08-13.27.22:286][873]LogHMD: Orientation wasn't applied to a camera in frame 66559
+[2017.03.08-13.27.22:286][873]LogHMD: Orientation wasn't applied to a camera in frame 66559
+[2017.03.08-13.27.22:287][873]LogHMD: Orientation wasn't applied to a camera in frame 66559
+[2017.03.08-13.27.22:294][874]LogHMD: Orientation wasn't applied to a camera in frame 66560
+[2017.03.08-13.27.22:294][874]LogHMD: Orientation wasn't applied to a camera in frame 66560
+[2017.03.08-13.27.22:295][874]LogHMD: Orientation wasn't applied to a camera in frame 66560
+[2017.03.08-13.27.22:301][875]LogHMD: Orientation wasn't applied to a camera in frame 66561
+[2017.03.08-13.27.22:301][875]LogHMD: Orientation wasn't applied to a camera in frame 66561
+[2017.03.08-13.27.22:302][875]LogHMD: Orientation wasn't applied to a camera in frame 66561
+[2017.03.08-13.27.22:308][876]LogHMD: Orientation wasn't applied to a camera in frame 66562
+[2017.03.08-13.27.22:308][876]LogHMD: Orientation wasn't applied to a camera in frame 66562
+[2017.03.08-13.27.22:310][876]LogHMD: Orientation wasn't applied to a camera in frame 66562
+[2017.03.08-13.27.22:316][877]LogHMD: Orientation wasn't applied to a camera in frame 66563
+[2017.03.08-13.27.22:317][877]LogHMD: Orientation wasn't applied to a camera in frame 66563
+[2017.03.08-13.27.22:318][877]LogHMD: Orientation wasn't applied to a camera in frame 66563
+[2017.03.08-13.27.22:324][878]LogHMD: Orientation wasn't applied to a camera in frame 66564
+[2017.03.08-13.27.22:324][878]LogHMD: Orientation wasn't applied to a camera in frame 66564
+[2017.03.08-13.27.22:325][878]LogHMD: Orientation wasn't applied to a camera in frame 66564
+[2017.03.08-13.27.22:331][879]LogHMD: Orientation wasn't applied to a camera in frame 66565
+[2017.03.08-13.27.22:331][879]LogHMD: Orientation wasn't applied to a camera in frame 66565
+[2017.03.08-13.27.22:332][879]LogHMD: Orientation wasn't applied to a camera in frame 66565
+[2017.03.08-13.27.22:338][880]LogHMD: Orientation wasn't applied to a camera in frame 66566
+[2017.03.08-13.27.22:338][880]LogHMD: Orientation wasn't applied to a camera in frame 66566
+[2017.03.08-13.27.22:339][880]LogHMD: Orientation wasn't applied to a camera in frame 66566
+[2017.03.08-13.27.22:346][881]LogHMD: Orientation wasn't applied to a camera in frame 66567
+[2017.03.08-13.27.22:346][881]LogHMD: Orientation wasn't applied to a camera in frame 66567
+[2017.03.08-13.27.22:347][881]LogHMD: Orientation wasn't applied to a camera in frame 66567
+[2017.03.08-13.27.22:353][882]LogHMD: Orientation wasn't applied to a camera in frame 66568
+[2017.03.08-13.27.22:353][882]LogHMD: Orientation wasn't applied to a camera in frame 66568
+[2017.03.08-13.27.22:355][882]LogHMD: Orientation wasn't applied to a camera in frame 66568
+[2017.03.08-13.27.22:361][883]LogHMD: Orientation wasn't applied to a camera in frame 66569
+[2017.03.08-13.27.22:361][883]LogHMD: Orientation wasn't applied to a camera in frame 66569
+[2017.03.08-13.27.22:362][883]LogHMD: Orientation wasn't applied to a camera in frame 66569
+[2017.03.08-13.27.22:368][884]LogHMD: Orientation wasn't applied to a camera in frame 66570
+[2017.03.08-13.27.22:368][884]LogHMD: Orientation wasn't applied to a camera in frame 66570
+[2017.03.08-13.27.22:369][884]LogHMD: Orientation wasn't applied to a camera in frame 66570
+[2017.03.08-13.27.22:375][885]LogHMD: Orientation wasn't applied to a camera in frame 66571
+[2017.03.08-13.27.22:375][885]LogHMD: Orientation wasn't applied to a camera in frame 66571
+[2017.03.08-13.27.22:376][885]LogHMD: Orientation wasn't applied to a camera in frame 66571
+[2017.03.08-13.27.22:383][886]LogHMD: Orientation wasn't applied to a camera in frame 66572
+[2017.03.08-13.27.22:383][886]LogHMD: Orientation wasn't applied to a camera in frame 66572
+[2017.03.08-13.27.22:384][886]LogHMD: Orientation wasn't applied to a camera in frame 66572
+[2017.03.08-13.27.22:391][887]LogHMD: Orientation wasn't applied to a camera in frame 66573
+[2017.03.08-13.27.22:391][887]LogHMD: Orientation wasn't applied to a camera in frame 66573
+[2017.03.08-13.27.22:392][887]LogHMD: Orientation wasn't applied to a camera in frame 66573
+[2017.03.08-13.27.22:398][888]LogHMD: Orientation wasn't applied to a camera in frame 66574
+[2017.03.08-13.27.22:398][888]LogHMD: Orientation wasn't applied to a camera in frame 66574
+[2017.03.08-13.27.22:399][888]LogHMD: Orientation wasn't applied to a camera in frame 66574
+[2017.03.08-13.27.22:406][889]LogHMD: Orientation wasn't applied to a camera in frame 66575
+[2017.03.08-13.27.22:406][889]LogHMD: Orientation wasn't applied to a camera in frame 66575
+[2017.03.08-13.27.22:407][889]LogHMD: Orientation wasn't applied to a camera in frame 66575
+[2017.03.08-13.27.22:413][890]LogHMD: Orientation wasn't applied to a camera in frame 66576
+[2017.03.08-13.27.22:413][890]LogHMD: Orientation wasn't applied to a camera in frame 66576
+[2017.03.08-13.27.22:414][890]LogHMD: Orientation wasn't applied to a camera in frame 66576
+[2017.03.08-13.27.22:420][891]LogHMD: Orientation wasn't applied to a camera in frame 66577
+[2017.03.08-13.27.22:420][891]LogHMD: Orientation wasn't applied to a camera in frame 66577
+[2017.03.08-13.27.22:421][891]LogHMD: Orientation wasn't applied to a camera in frame 66577
+[2017.03.08-13.27.22:428][892]LogHMD: Orientation wasn't applied to a camera in frame 66578
+[2017.03.08-13.27.22:428][892]LogHMD: Orientation wasn't applied to a camera in frame 66578
+[2017.03.08-13.27.22:429][892]LogHMD: Orientation wasn't applied to a camera in frame 66578
+[2017.03.08-13.27.22:435][893]LogHMD: Orientation wasn't applied to a camera in frame 66579
+[2017.03.08-13.27.22:435][893]LogHMD: Orientation wasn't applied to a camera in frame 66579
+[2017.03.08-13.27.22:436][893]LogHMD: Orientation wasn't applied to a camera in frame 66579
+[2017.03.08-13.27.22:442][894]LogHMD: Orientation wasn't applied to a camera in frame 66580
+[2017.03.08-13.27.22:442][894]LogHMD: Orientation wasn't applied to a camera in frame 66580
+[2017.03.08-13.27.22:444][894]LogHMD: Orientation wasn't applied to a camera in frame 66580
+[2017.03.08-13.27.22:449][895]LogHMD: Orientation wasn't applied to a camera in frame 66581
+[2017.03.08-13.27.22:449][895]LogHMD: Orientation wasn't applied to a camera in frame 66581
+[2017.03.08-13.27.22:451][895]LogHMD: Orientation wasn't applied to a camera in frame 66581
+[2017.03.08-13.27.22:457][896]LogHMD: Orientation wasn't applied to a camera in frame 66582
+[2017.03.08-13.27.22:457][896]LogHMD: Orientation wasn't applied to a camera in frame 66582
+[2017.03.08-13.27.22:458][896]LogHMD: Orientation wasn't applied to a camera in frame 66582
+[2017.03.08-13.27.22:464][897]LogHMD: Orientation wasn't applied to a camera in frame 66583
+[2017.03.08-13.27.22:464][897]LogHMD: Orientation wasn't applied to a camera in frame 66583
+[2017.03.08-13.27.22:466][897]LogHMD: Orientation wasn't applied to a camera in frame 66583
+[2017.03.08-13.27.22:472][898]LogHMD: Orientation wasn't applied to a camera in frame 66584
+[2017.03.08-13.27.22:472][898]LogHMD: Orientation wasn't applied to a camera in frame 66584
+[2017.03.08-13.27.22:474][898]LogHMD: Orientation wasn't applied to a camera in frame 66584
+[2017.03.08-13.27.22:480][899]LogHMD: Orientation wasn't applied to a camera in frame 66585
+[2017.03.08-13.27.22:480][899]LogHMD: Orientation wasn't applied to a camera in frame 66585
+[2017.03.08-13.27.22:482][899]LogHMD: Orientation wasn't applied to a camera in frame 66585
+[2017.03.08-13.27.22:488][900]LogHMD: Orientation wasn't applied to a camera in frame 66586
+[2017.03.08-13.27.22:488][900]LogHMD: Orientation wasn't applied to a camera in frame 66586
+[2017.03.08-13.27.22:490][900]LogHMD: Orientation wasn't applied to a camera in frame 66586
+[2017.03.08-13.27.22:496][901]LogHMD: Orientation wasn't applied to a camera in frame 66587
+[2017.03.08-13.27.22:496][901]LogHMD: Orientation wasn't applied to a camera in frame 66587
+[2017.03.08-13.27.22:498][901]LogHMD: Orientation wasn't applied to a camera in frame 66587
+[2017.03.08-13.27.22:504][902]LogHMD: Orientation wasn't applied to a camera in frame 66588
+[2017.03.08-13.27.22:504][902]LogHMD: Orientation wasn't applied to a camera in frame 66588
+[2017.03.08-13.27.22:505][902]LogHMD: Orientation wasn't applied to a camera in frame 66588
+[2017.03.08-13.27.22:512][903]LogHMD: Orientation wasn't applied to a camera in frame 66589
+[2017.03.08-13.27.22:512][903]LogHMD: Orientation wasn't applied to a camera in frame 66589
+[2017.03.08-13.27.22:513][903]LogHMD: Orientation wasn't applied to a camera in frame 66589
+[2017.03.08-13.27.22:520][904]LogHMD: Orientation wasn't applied to a camera in frame 66590
+[2017.03.08-13.27.22:520][904]LogHMD: Orientation wasn't applied to a camera in frame 66590
+[2017.03.08-13.27.22:522][904]LogHMD: Orientation wasn't applied to a camera in frame 66590
+[2017.03.08-13.27.22:528][905]LogHMD: Orientation wasn't applied to a camera in frame 66591
+[2017.03.08-13.27.22:528][905]LogHMD: Orientation wasn't applied to a camera in frame 66591
+[2017.03.08-13.27.22:529][905]LogHMD: Orientation wasn't applied to a camera in frame 66591
+[2017.03.08-13.27.22:535][906]LogHMD: Orientation wasn't applied to a camera in frame 66592
+[2017.03.08-13.27.22:535][906]LogHMD: Orientation wasn't applied to a camera in frame 66592
+[2017.03.08-13.27.22:537][906]LogHMD: Orientation wasn't applied to a camera in frame 66592
+[2017.03.08-13.27.22:543][907]LogHMD: Orientation wasn't applied to a camera in frame 66593
+[2017.03.08-13.27.22:543][907]LogHMD: Orientation wasn't applied to a camera in frame 66593
+[2017.03.08-13.27.22:545][907]LogHMD: Orientation wasn't applied to a camera in frame 66593
+[2017.03.08-13.27.22:551][908]LogHMD: Orientation wasn't applied to a camera in frame 66594
+[2017.03.08-13.27.22:551][908]LogHMD: Orientation wasn't applied to a camera in frame 66594
+[2017.03.08-13.27.22:553][908]LogHMD: Orientation wasn't applied to a camera in frame 66594
+[2017.03.08-13.27.22:559][909]LogHMD: Orientation wasn't applied to a camera in frame 66595
+[2017.03.08-13.27.22:559][909]LogHMD: Orientation wasn't applied to a camera in frame 66595
+[2017.03.08-13.27.22:561][909]LogHMD: Orientation wasn't applied to a camera in frame 66595
+[2017.03.08-13.27.22:567][910]LogHMD: Orientation wasn't applied to a camera in frame 66596
+[2017.03.08-13.27.22:567][910]LogHMD: Orientation wasn't applied to a camera in frame 66596
+[2017.03.08-13.27.22:568][910]LogHMD: Orientation wasn't applied to a camera in frame 66596
+[2017.03.08-13.27.22:575][911]LogHMD: Orientation wasn't applied to a camera in frame 66597
+[2017.03.08-13.27.22:575][911]LogHMD: Orientation wasn't applied to a camera in frame 66597
+[2017.03.08-13.27.22:576][911]LogHMD: Orientation wasn't applied to a camera in frame 66597
+[2017.03.08-13.27.22:583][912]LogHMD: Orientation wasn't applied to a camera in frame 66598
+[2017.03.08-13.27.22:583][912]LogHMD: Orientation wasn't applied to a camera in frame 66598
+[2017.03.08-13.27.22:585][912]LogHMD: Orientation wasn't applied to a camera in frame 66598
+[2017.03.08-13.27.22:591][913]LogHMD: Orientation wasn't applied to a camera in frame 66599
+[2017.03.08-13.27.22:591][913]LogHMD: Orientation wasn't applied to a camera in frame 66599
+[2017.03.08-13.27.22:592][913]LogHMD: Orientation wasn't applied to a camera in frame 66599
+[2017.03.08-13.27.22:599][914]LogHMD: Orientation wasn't applied to a camera in frame 66600
+[2017.03.08-13.27.22:599][914]LogHMD: Orientation wasn't applied to a camera in frame 66600
+[2017.03.08-13.27.22:600][914]LogHMD: Orientation wasn't applied to a camera in frame 66600
+[2017.03.08-13.27.22:606][915]LogHMD: Orientation wasn't applied to a camera in frame 66601
+[2017.03.08-13.27.22:606][915]LogHMD: Orientation wasn't applied to a camera in frame 66601
+[2017.03.08-13.27.22:608][915]LogHMD: Orientation wasn't applied to a camera in frame 66601
+[2017.03.08-13.27.22:614][916]LogHMD: Orientation wasn't applied to a camera in frame 66602
+[2017.03.08-13.27.22:614][916]LogHMD: Orientation wasn't applied to a camera in frame 66602
+[2017.03.08-13.27.22:616][916]LogHMD: Orientation wasn't applied to a camera in frame 66602
+[2017.03.08-13.27.22:622][917]LogHMD: Orientation wasn't applied to a camera in frame 66603
+[2017.03.08-13.27.22:622][917]LogHMD: Orientation wasn't applied to a camera in frame 66603
+[2017.03.08-13.27.22:623][917]LogHMD: Orientation wasn't applied to a camera in frame 66603
+[2017.03.08-13.27.22:629][918]LogHMD: Orientation wasn't applied to a camera in frame 66604
+[2017.03.08-13.27.22:629][918]LogHMD: Orientation wasn't applied to a camera in frame 66604
+[2017.03.08-13.27.22:631][918]LogHMD: Orientation wasn't applied to a camera in frame 66604
+[2017.03.08-13.27.22:638][919]LogHMD: Orientation wasn't applied to a camera in frame 66605
+[2017.03.08-13.27.22:638][919]LogHMD: Orientation wasn't applied to a camera in frame 66605
+[2017.03.08-13.27.22:640][919]LogHMD: Orientation wasn't applied to a camera in frame 66605
+[2017.03.08-13.27.22:646][920]LogHMD: Orientation wasn't applied to a camera in frame 66606
+[2017.03.08-13.27.22:646][920]LogHMD: Orientation wasn't applied to a camera in frame 66606
+[2017.03.08-13.27.22:648][920]LogHMD: Orientation wasn't applied to a camera in frame 66606
+[2017.03.08-13.27.22:655][921]LogHMD: Orientation wasn't applied to a camera in frame 66607
+[2017.03.08-13.27.22:655][921]LogHMD: Orientation wasn't applied to a camera in frame 66607
+[2017.03.08-13.27.22:656][921]LogHMD: Orientation wasn't applied to a camera in frame 66607
+[2017.03.08-13.27.22:662][922]LogHMD: Orientation wasn't applied to a camera in frame 66608
+[2017.03.08-13.27.22:662][922]LogHMD: Orientation wasn't applied to a camera in frame 66608
+[2017.03.08-13.27.22:664][922]LogHMD: Orientation wasn't applied to a camera in frame 66608
+[2017.03.08-13.27.22:670][923]LogHMD: Orientation wasn't applied to a camera in frame 66609
+[2017.03.08-13.27.22:670][923]LogHMD: Orientation wasn't applied to a camera in frame 66609
+[2017.03.08-13.27.22:672][923]LogHMD: Orientation wasn't applied to a camera in frame 66609
+[2017.03.08-13.27.22:679][924]LogHMD: Orientation wasn't applied to a camera in frame 66610
+[2017.03.08-13.27.22:679][924]LogHMD: Orientation wasn't applied to a camera in frame 66610
+[2017.03.08-13.27.22:681][924]LogHMD: Orientation wasn't applied to a camera in frame 66610
+[2017.03.08-13.27.22:687][925]LogHMD: Orientation wasn't applied to a camera in frame 66611
+[2017.03.08-13.27.22:687][925]LogHMD: Orientation wasn't applied to a camera in frame 66611
+[2017.03.08-13.27.22:688][925]LogHMD: Orientation wasn't applied to a camera in frame 66611
+[2017.03.08-13.27.22:695][926]LogHMD: Orientation wasn't applied to a camera in frame 66612
+[2017.03.08-13.27.22:695][926]LogHMD: Orientation wasn't applied to a camera in frame 66612
+[2017.03.08-13.27.22:696][926]LogHMD: Orientation wasn't applied to a camera in frame 66612
+[2017.03.08-13.27.22:702][927]LogHMD: Orientation wasn't applied to a camera in frame 66613
+[2017.03.08-13.27.22:702][927]LogHMD: Orientation wasn't applied to a camera in frame 66613
+[2017.03.08-13.27.22:704][927]LogHMD: Orientation wasn't applied to a camera in frame 66613
+[2017.03.08-13.27.22:710][928]LogHMD: Orientation wasn't applied to a camera in frame 66614
+[2017.03.08-13.27.22:710][928]LogHMD: Orientation wasn't applied to a camera in frame 66614
+[2017.03.08-13.27.22:712][928]LogHMD: Orientation wasn't applied to a camera in frame 66614
+[2017.03.08-13.27.22:718][929]LogHMD: Orientation wasn't applied to a camera in frame 66615
+[2017.03.08-13.27.22:718][929]LogHMD: Orientation wasn't applied to a camera in frame 66615
+[2017.03.08-13.27.22:719][929]LogHMD: Orientation wasn't applied to a camera in frame 66615
+[2017.03.08-13.27.22:726][930]LogHMD: Orientation wasn't applied to a camera in frame 66616
+[2017.03.08-13.27.22:726][930]LogHMD: Orientation wasn't applied to a camera in frame 66616
+[2017.03.08-13.27.22:728][930]LogHMD: Orientation wasn't applied to a camera in frame 66616
+[2017.03.08-13.27.22:734][931]LogHMD: Orientation wasn't applied to a camera in frame 66617
+[2017.03.08-13.27.22:734][931]LogHMD: Orientation wasn't applied to a camera in frame 66617
+[2017.03.08-13.27.22:735][931]LogHMD: Orientation wasn't applied to a camera in frame 66617
+[2017.03.08-13.27.22:742][932]LogHMD: Orientation wasn't applied to a camera in frame 66618
+[2017.03.08-13.27.22:742][932]LogHMD: Orientation wasn't applied to a camera in frame 66618
+[2017.03.08-13.27.22:743][932]LogHMD: Orientation wasn't applied to a camera in frame 66618
+[2017.03.08-13.27.22:749][933]LogHMD: Orientation wasn't applied to a camera in frame 66619
+[2017.03.08-13.27.22:749][933]LogHMD: Orientation wasn't applied to a camera in frame 66619
+[2017.03.08-13.27.22:751][933]LogHMD: Orientation wasn't applied to a camera in frame 66619
+[2017.03.08-13.27.22:757][934]LogHMD: Orientation wasn't applied to a camera in frame 66620
+[2017.03.08-13.27.22:757][934]LogHMD: Orientation wasn't applied to a camera in frame 66620
+[2017.03.08-13.27.22:759][934]LogHMD: Orientation wasn't applied to a camera in frame 66620
+[2017.03.08-13.27.22:765][935]LogHMD: Orientation wasn't applied to a camera in frame 66621
+[2017.03.08-13.27.22:765][935]LogHMD: Orientation wasn't applied to a camera in frame 66621
+[2017.03.08-13.27.22:766][935]LogHMD: Orientation wasn't applied to a camera in frame 66621
+[2017.03.08-13.27.22:772][936]LogHMD: Orientation wasn't applied to a camera in frame 66622
+[2017.03.08-13.27.22:772][936]LogHMD: Orientation wasn't applied to a camera in frame 66622
+[2017.03.08-13.27.22:773][936]LogHMD: Orientation wasn't applied to a camera in frame 66622
+[2017.03.08-13.27.22:780][937]LogHMD: Orientation wasn't applied to a camera in frame 66623
+[2017.03.08-13.27.22:780][937]LogHMD: Orientation wasn't applied to a camera in frame 66623
+[2017.03.08-13.27.22:782][937]LogHMD: Orientation wasn't applied to a camera in frame 66623
+[2017.03.08-13.27.22:788][938]LogHMD: Orientation wasn't applied to a camera in frame 66624
+[2017.03.08-13.27.22:789][938]LogHMD: Orientation wasn't applied to a camera in frame 66624
+[2017.03.08-13.27.22:790][938]LogHMD: Orientation wasn't applied to a camera in frame 66624
+[2017.03.08-13.27.22:796][939]LogHMD: Orientation wasn't applied to a camera in frame 66625
+[2017.03.08-13.27.22:796][939]LogHMD: Orientation wasn't applied to a camera in frame 66625
+[2017.03.08-13.27.22:797][939]LogHMD: Orientation wasn't applied to a camera in frame 66625
+[2017.03.08-13.27.22:803][940]LogHMD: Orientation wasn't applied to a camera in frame 66626
+[2017.03.08-13.27.22:803][940]LogHMD: Orientation wasn't applied to a camera in frame 66626
+[2017.03.08-13.27.22:805][940]LogHMD: Orientation wasn't applied to a camera in frame 66626
+[2017.03.08-13.27.22:811][941]LogHMD: Orientation wasn't applied to a camera in frame 66627
+[2017.03.08-13.27.22:811][941]LogHMD: Orientation wasn't applied to a camera in frame 66627
+[2017.03.08-13.27.22:813][941]LogHMD: Orientation wasn't applied to a camera in frame 66627
+[2017.03.08-13.27.22:819][942]LogHMD: Orientation wasn't applied to a camera in frame 66628
+[2017.03.08-13.27.22:819][942]LogHMD: Orientation wasn't applied to a camera in frame 66628
+[2017.03.08-13.27.22:821][942]LogHMD: Orientation wasn't applied to a camera in frame 66628
+[2017.03.08-13.27.22:827][943]LogHMD: Orientation wasn't applied to a camera in frame 66629
+[2017.03.08-13.27.22:827][943]LogHMD: Orientation wasn't applied to a camera in frame 66629
+[2017.03.08-13.27.22:828][943]LogHMD: Orientation wasn't applied to a camera in frame 66629
+[2017.03.08-13.27.22:835][944]LogHMD: Orientation wasn't applied to a camera in frame 66630
+[2017.03.08-13.27.22:835][944]LogHMD: Orientation wasn't applied to a camera in frame 66630
+[2017.03.08-13.27.22:836][944]LogHMD: Orientation wasn't applied to a camera in frame 66630
+[2017.03.08-13.27.22:843][945]LogHMD: Orientation wasn't applied to a camera in frame 66631
+[2017.03.08-13.27.22:843][945]LogHMD: Orientation wasn't applied to a camera in frame 66631
+[2017.03.08-13.27.22:844][945]LogHMD: Orientation wasn't applied to a camera in frame 66631
+[2017.03.08-13.27.22:850][946]LogHMD: Orientation wasn't applied to a camera in frame 66632
+[2017.03.08-13.27.22:851][946]LogHMD: Orientation wasn't applied to a camera in frame 66632
+[2017.03.08-13.27.22:852][946]LogHMD: Orientation wasn't applied to a camera in frame 66632
+[2017.03.08-13.27.22:859][947]LogHMD: Orientation wasn't applied to a camera in frame 66633
+[2017.03.08-13.27.22:859][947]LogHMD: Orientation wasn't applied to a camera in frame 66633
+[2017.03.08-13.27.22:860][947]LogHMD: Orientation wasn't applied to a camera in frame 66633
+[2017.03.08-13.27.22:866][948]LogHMD: Orientation wasn't applied to a camera in frame 66634
+[2017.03.08-13.27.22:866][948]LogHMD: Orientation wasn't applied to a camera in frame 66634
+[2017.03.08-13.27.22:868][948]LogHMD: Orientation wasn't applied to a camera in frame 66634
+[2017.03.08-13.27.22:874][949]LogHMD: Orientation wasn't applied to a camera in frame 66635
+[2017.03.08-13.27.22:874][949]LogHMD: Orientation wasn't applied to a camera in frame 66635
+[2017.03.08-13.27.22:875][949]LogHMD: Orientation wasn't applied to a camera in frame 66635
+[2017.03.08-13.27.22:882][950]LogHMD: Orientation wasn't applied to a camera in frame 66636
+[2017.03.08-13.27.22:882][950]LogHMD: Orientation wasn't applied to a camera in frame 66636
+[2017.03.08-13.27.22:884][950]LogHMD: Orientation wasn't applied to a camera in frame 66636
+[2017.03.08-13.27.22:890][951]LogHMD: Orientation wasn't applied to a camera in frame 66637
+[2017.03.08-13.27.22:890][951]LogHMD: Orientation wasn't applied to a camera in frame 66637
+[2017.03.08-13.27.22:891][951]LogHMD: Orientation wasn't applied to a camera in frame 66637
+[2017.03.08-13.27.22:897][952]LogHMD: Orientation wasn't applied to a camera in frame 66638
+[2017.03.08-13.27.22:897][952]LogHMD: Orientation wasn't applied to a camera in frame 66638
+[2017.03.08-13.27.22:899][952]LogHMD: Orientation wasn't applied to a camera in frame 66638
+[2017.03.08-13.27.22:905][953]LogHMD: Orientation wasn't applied to a camera in frame 66639
+[2017.03.08-13.27.22:905][953]LogHMD: Orientation wasn't applied to a camera in frame 66639
+[2017.03.08-13.27.22:906][953]LogHMD: Orientation wasn't applied to a camera in frame 66639
+[2017.03.08-13.27.22:912][954]LogHMD: Orientation wasn't applied to a camera in frame 66640
+[2017.03.08-13.27.22:912][954]LogHMD: Orientation wasn't applied to a camera in frame 66640
+[2017.03.08-13.27.22:914][954]LogHMD: Orientation wasn't applied to a camera in frame 66640
+[2017.03.08-13.27.22:921][955]LogHMD: Orientation wasn't applied to a camera in frame 66641
+[2017.03.08-13.27.22:921][955]LogHMD: Orientation wasn't applied to a camera in frame 66641
+[2017.03.08-13.27.22:922][955]LogHMD: Orientation wasn't applied to a camera in frame 66641
+[2017.03.08-13.27.22:929][956]LogHMD: Orientation wasn't applied to a camera in frame 66642
+[2017.03.08-13.27.22:929][956]LogHMD: Orientation wasn't applied to a camera in frame 66642
+[2017.03.08-13.27.22:930][956]LogHMD: Orientation wasn't applied to a camera in frame 66642
+[2017.03.08-13.27.22:936][957]LogHMD: Orientation wasn't applied to a camera in frame 66643
+[2017.03.08-13.27.22:936][957]LogHMD: Orientation wasn't applied to a camera in frame 66643
+[2017.03.08-13.27.22:938][957]LogHMD: Orientation wasn't applied to a camera in frame 66643
+[2017.03.08-13.27.22:943][958]LogHMD: Orientation wasn't applied to a camera in frame 66644
+[2017.03.08-13.27.22:943][958]LogHMD: Orientation wasn't applied to a camera in frame 66644
+[2017.03.08-13.27.22:944][958]LogHMD: Orientation wasn't applied to a camera in frame 66644
+[2017.03.08-13.27.22:951][959]LogHMD: Orientation wasn't applied to a camera in frame 66645
+[2017.03.08-13.27.22:951][959]LogHMD: Orientation wasn't applied to a camera in frame 66645
+[2017.03.08-13.27.22:952][959]LogHMD: Orientation wasn't applied to a camera in frame 66645
+[2017.03.08-13.27.22:959][960]LogHMD: Orientation wasn't applied to a camera in frame 66646
+[2017.03.08-13.27.22:959][960]LogHMD: Orientation wasn't applied to a camera in frame 66646
+[2017.03.08-13.27.22:960][960]LogHMD: Orientation wasn't applied to a camera in frame 66646
+[2017.03.08-13.27.22:966][961]LogHMD: Orientation wasn't applied to a camera in frame 66647
+[2017.03.08-13.27.22:966][961]LogHMD: Orientation wasn't applied to a camera in frame 66647
+[2017.03.08-13.27.22:967][961]LogHMD: Orientation wasn't applied to a camera in frame 66647
+[2017.03.08-13.27.22:974][962]LogHMD: Orientation wasn't applied to a camera in frame 66648
+[2017.03.08-13.27.22:974][962]LogHMD: Orientation wasn't applied to a camera in frame 66648
+[2017.03.08-13.27.22:975][962]LogHMD: Orientation wasn't applied to a camera in frame 66648
+[2017.03.08-13.27.22:982][963]LogHMD: Orientation wasn't applied to a camera in frame 66649
+[2017.03.08-13.27.22:982][963]LogHMD: Orientation wasn't applied to a camera in frame 66649
+[2017.03.08-13.27.22:983][963]LogHMD: Orientation wasn't applied to a camera in frame 66649
+[2017.03.08-13.27.23:317][  7]LogHMD: Vision Tracking Acquired
+[2017.03.08-13.27.28:453][346]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(180494ll)
+[2017.03.08-13.27.35:484][981]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(180494ll)
+[2017.03.08-13.27.40:533][435]LogBlueprintUserMessages: [Teapot_PlayerController_C_0] H Pressed
+[2017.03.08-13.27.40:534][435]LogBlueprintUserMessages: [Teapot_GameInstance_C_4] Succeded creating session
+[2017.03.08-13.27.40:544][436]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.08-13.27.40:544][436]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.08-13.27.40:545][436]LogNet: Browse: /Game/Teapot_Content/Maps/Teapot_Level_Test2?listen
+[2017.03.08-13.27.40:545][436]LogLoadingSplash: Loading begins
+[2017.03.08-13.27.40:557][436]LogHMD: Allocated a new swap texture set (size 16 x 16, mipcount = 5), 0x00000214A9C29970
+[2017.03.08-13.27.40:567][436]LogHMD: FOculusRiftSplash::Tick, DELTA > 0.5 secs, ie: 0.0110 2246.7886
+[2017.03.08-13.27.40:577][436]LogHMD: FOculusRiftSplash::PushBlackFrame
+[2017.03.08-13.27.40:577][436]LogHMD: FOculusRiftSplash::Show
+[2017.03.08-13.27.40:577][436]LogLoad: LoadMap: /Game/Teapot_Content/Maps/Teapot_Level_Test2?listen
+[2017.03.08-13.27.40:596][436]Cmd: MEM
+[2017.03.08-13.27.40:612][436]LogMemory: Platform Memory Stats for Windows
+[2017.03.08-13.27.40:612][436]LogMemory: Process Physical Memory: 2259.29 MB used, 2402.27 MB peak
+[2017.03.08-13.27.40:612][436]LogMemory: Process Virtual Memory: 3716.70 MB used, 4106.16 MB peak
+[2017.03.08-13.27.40:612][436]LogMemory: Physical Memory: 5837.14 MB used,  10488.85 MB free, 16325.98 MB total
+[2017.03.08-13.27.40:612][436]LogMemory: Virtual Memory: 4995.56 MB used,  10488.85 MB free, 134217728.00 MB total
+[2017.03.08-13.27.40:612][436]LogMemory: 
+[2017.03.08-13.27.40:612][436]Allocator Stats for TBB: (not implemented)
+[2017.03.08-13.27.40:640][436]LogAIModule: Creating AISystem for world Teapot_Level_Test2
+[2017.03.08-13.27.40:640][436]LogLoad: Game class is 'Teapot_GameMode_C'
+[2017.03.08-13.27.40:641][436]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.03.08-13.27.40:641][436]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.03.08-13.27.40:641][436]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 7777
+[2017.03.08-13.27.40:647][436]LogWorld: Bringing World /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Test2.Teapot_Level_Test2 up for play (max tick rate 0) at 2017.03.08-14.27.40
+[2017.03.08-13.27.40:647][436]LogWorld: Bringing up level for play took: 0.004948
+[2017.03.08-13.27.40:648][436]LogBlueprintUserMessages: [Teapot_GameMode_C_0] Server: OnPostLogin
+[2017.03.08-13.27.40:648][436]LogBlueprintUserMessages: [Teapot_GameMode_C_0] Server: Spawning Pawn
+[2017.03.08-13.27.40:648][436]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.27.40:648][436]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.27.40:648][436]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.27.40:649][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:649][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:649][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:649][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:649][436]LogBlueprint:Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2017.03.08-13.27.40:650][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:650][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:650][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:650][436]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.27.40:650][436]LogBlueprint:Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2017.03.08-13.27.40:651][436]Cmd: stat FPS
+[2017.03.08-13.27.40:651][436]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.27.40:651][436]LogLoadingSplash: Loading ends
+[2017.03.08-13.27.40:651][436]LogHMD: FOculusRiftSplash::Hide
+[2017.03.08-13.27.40:653][436]LogHMD: Freeing textureSet 0x00000214A9C29970
+[2017.03.08-13.27.40:653][436]LogHMD: Allocated a new swap texture set (size 16 x 16, mipcount = 5), 0x00000214A9C29600
+[2017.03.08-13.27.40:655][436]LogHMD: FOculusRiftSplash::PushBlackFrame
+[2017.03.08-13.27.40:655][436]LogLoad: Took 0.078057 seconds to LoadMap(/Game/Teapot_Content/Maps/Teapot_Level_Test2)
+[2017.03.08-13.27.44:332][764]OCULUS: Error: Prediction interval too high: 2061.939434 s, clamping at 0.100000 s
+[2017.03.08-13.29.11:093][323]OCULUS: Error: Prediction interval too high: 0.334909 s, clamping at 0.100000 s
+[2017.03.08-13.29.27:093][371]OCULUS: Error: Prediction interval too high: 0.174781 s, clamping at 0.100000 s
+[2017.03.08-13.29.43:763][420]LogHMD: Lost Vision Tracking
+[2017.03.08-13.37.32:434][827]OCULUS: Error: Prediction interval too high: 0.390166 s, clamping at 0.100000 s
+[2017.03.08-13.47.54:465][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.47.54:465][692]LogHMD: Destroying ovr session
+[2017.03.08-13.47.54:465][692]LogHMD: Freeing textureSet 0x00000214A9C29600
+[2017.03.08-13.47.54:465][692]LogHMD: Freeing textureSet 0x00000214A93BE4F0
+[2017.03.08-13.47.54:499][692]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.03.08-13.47.54:499][692]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.03.08-13.47.54:500][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.47.54:519][692]LogExit: GameNetDriver None shut down
+[2017.03.08-13.47.54:766][693]LogPlayLevel:Display: Destroying online subsystem :Context_18
+[2017.03.08-13.47.54:766][693]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.03.08-13.58.01:711][851]SourceControl: Info Source control is disabled
+[2017.03.08-13.58.04:612][199]LogTemp: Repeting last play command: VR Preview
+[2017.03.08-13.58.04:634][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.04:634][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.08-13.58.04:635][199]OCULUS: Debug: [HMDState] Using default profile default
+[2017.03.08-13.58.04:635][199]OCULUS: Info: IAD changed to 60.9mm
+[2017.03.08-13.58.04:635][199]LogHMD: New ovr session is created
+[2017.03.08-13.58.04:636][199]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.03.08-13.58.04:636][199]PIE: New page: PIE session: Teapot_Level_Lobby (Mar 8, 2017, 3:58:04 PM)
+[2017.03.08-13.58.04:639][199]LogPlayLevel: Creating play world package: /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby
+[2017.03.08-13.58.04:641][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001972s)
+[2017.03.08-13.58.04:642][199]LogAIModule: Creating AISystem for world Teapot_Level_Lobby
+[2017.03.08-13.58.04:643][199]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2017.03.08-13.58.04:643][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby to /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby (0.003424s)
+[2017.03.08-13.58.04:664][199]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.08-13.58.04:670][199]LogInit: FAudioDevice initialized.
+[2017.03.08-13.58.04:709][199]LogHMD: Need to reallocate eye buffer, reason: no textureset was allocated
+[2017.03.08-13.58.04:712][199]LogHMD: Allocated a new swap texture set (size 2720 x 1600, mipcount = 1), 0x00000214BDB6E750
+[2017.03.08-13.58.04:742][199]LogLoad: Game class is 'Teapot_GameMode_C'
+[2017.03.08-13.58.04:744][199]LogWorld: Bringing World /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby up for play (max tick rate 0) at 2017.03.08-14.58.04
+[2017.03.08-13.58.04:744][199]LogWorld: Bringing up level for play took: 0.001331
+[2017.03.08-13.58.04:757][199]LogBlueprintUserMessages: [Teapot_GameMode_C_0] OnPostLogin
+[2017.03.08-13.58.04:757][199]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.04:757][199]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.04:757][199]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.04:757][199]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.04:762][199]PIE: Info Play in editor start time for /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby 0.647
+[2017.03.08-13.58.04:762][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.04:764][199]LogHMD: Destroying ovr session
+[2017.03.08-13.58.04:765][199]LogHMD: Freeing textureSet 0x00000214BDB6E750
+[2017.03.08-13.58.08:615][250]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(a80644ll)
+[2017.03.08-13.58.09:516][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.09:569][758]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.03.08-13.58.09:569][758]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.03.08-13.58.09:570][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.09:621][761]LogPlayLevel:Display: Destroying online subsystem :Context_19
+[2017.03.08-13.58.09:621][761]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.03.08-13.58.12:198][ 70]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(f04acll)
+[2017.03.08-13.58.12:827][145]LogTemp: Repeting last play command: VR Preview
+[2017.03.08-13.58.12:845][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.12:846][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.08-13.58.12:866][145]OCULUS: Debug: [HMDState] Using default profile default
+[2017.03.08-13.58.12:866][145]OCULUS: Info: IAD changed to 60.9mm
+[2017.03.08-13.58.12:866][145]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(f04acll)
+[2017.03.08-13.58.12:866][145]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(f04acll)
+[2017.03.08-13.58.12:866][145]LogHMD: New ovr session is created
+[2017.03.08-13.58.12:866][145]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.03.08-13.58.12:866][145]PIE: New page: PIE session: Teapot_Level_Lobby (Mar 8, 2017, 3:58:12 PM)
+[2017.03.08-13.58.12:867][145]LogPlayLevel: Creating play world package: /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby
+[2017.03.08-13.58.12:868][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001247s)
+[2017.03.08-13.58.12:869][145]LogAIModule: Creating AISystem for world Teapot_Level_Lobby
+[2017.03.08-13.58.12:869][145]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.03.08-13.58.12:869][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby to /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby (0.002059s)
+[2017.03.08-13.58.12:890][145]LogHMD: Vision Tracking Acquired
+[2017.03.08-13.58.12:894][145]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.08-13.58.12:901][145]LogInit: FAudioDevice initialized.
+[2017.03.08-13.58.12:982][145]LogLoad: Game class is 'Teapot_GameMode_C'
+[2017.03.08-13.58.12:984][145]LogWorld: Bringing World /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby.Teapot_Level_Lobby up for play (max tick rate 0) at 2017.03.08-14.58.12
+[2017.03.08-13.58.12:985][145]LogWorld: Bringing up level for play took: 0.001288
+[2017.03.08-13.58.12:996][145]LogBlueprintUserMessages: [Teapot_GameMode_C_0] OnPostLogin
+[2017.03.08-13.58.12:996][145]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.12:996][145]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.12:996][145]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.12:997][145]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.13:004][145]PIE: Info Play in editor start time for /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Lobby 0.889
+[2017.03.08-13.58.13:005][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.13:010][145]LogHMD: Need to reallocate eye buffer, reason: size / quality changed
+[2017.03.08-13.58.13:011][145]LogHMD: Allocated a new swap texture set (size 2720 x 1600, mipcount = 1), 0x00000215012291C0
+[2017.03.08-13.58.13:036][145]LogHMD: Orientation wasn't applied to a camera in frame 76941
+[2017.03.08-13.58.13:037][145]LogHMD: Orientation wasn't applied to a camera in frame 76941
+[2017.03.08-13.58.13:038][145]LogHMD: Allocated a new mirror texture (size 1280 x 720)
+[2017.03.08-13.58.13:038][145]LogHMD: Orientation wasn't applied to a camera in frame 76941
+[2017.03.08-13.58.13:042][146]LogHMD: Orientation wasn't applied to a camera in frame 76942
+[2017.03.08-13.58.13:042][146]LogHMD: Orientation wasn't applied to a camera in frame 76942
+[2017.03.08-13.58.13:044][146]LogHMD: Orientation wasn't applied to a camera in frame 76942
+[2017.03.08-13.58.13:045][147]LogHMD: Orientation wasn't applied to a camera in frame 76943
+[2017.03.08-13.58.13:045][147]LogHMD: Orientation wasn't applied to a camera in frame 76943
+[2017.03.08-13.58.13:046][147]LogHMD: Orientation wasn't applied to a camera in frame 76943
+[2017.03.08-13.58.13:047][148]LogHMD: Orientation wasn't applied to a camera in frame 76944
+[2017.03.08-13.58.13:047][148]LogHMD: Orientation wasn't applied to a camera in frame 76944
+[2017.03.08-13.58.13:049][148]LogHMD: Orientation wasn't applied to a camera in frame 76944
+[2017.03.08-13.58.13:051][149]LogHMD: Orientation wasn't applied to a camera in frame 76945
+[2017.03.08-13.58.13:051][149]LogHMD: Orientation wasn't applied to a camera in frame 76945
+[2017.03.08-13.58.13:053][149]LogHMD: Orientation wasn't applied to a camera in frame 76945
+[2017.03.08-13.58.13:054][150]LogHMD: Orientation wasn't applied to a camera in frame 76946
+[2017.03.08-13.58.13:054][150]LogHMD: Orientation wasn't applied to a camera in frame 76946
+[2017.03.08-13.58.13:055][150]LogHMD: Orientation wasn't applied to a camera in frame 76946
+[2017.03.08-13.58.13:057][151]LogHMD: Orientation wasn't applied to a camera in frame 76947
+[2017.03.08-13.58.13:057][151]LogHMD: Orientation wasn't applied to a camera in frame 76947
+[2017.03.08-13.58.13:058][151]LogHMD: Orientation wasn't applied to a camera in frame 76947
+[2017.03.08-13.58.13:060][152]LogHMD: Orientation wasn't applied to a camera in frame 76948
+[2017.03.08-13.58.13:060][152]LogHMD: Orientation wasn't applied to a camera in frame 76948
+[2017.03.08-13.58.13:061][152]LogHMD: Orientation wasn't applied to a camera in frame 76948
+[2017.03.08-13.58.13:082][153]LogHMD: Orientation wasn't applied to a camera in frame 76949
+[2017.03.08-13.58.13:083][153]LogHMD: Orientation wasn't applied to a camera in frame 76949
+[2017.03.08-13.58.13:084][153]LogHMD: Orientation wasn't applied to a camera in frame 76949
+[2017.03.08-13.58.13:095][154]LogHMD: Orientation wasn't applied to a camera in frame 76950
+[2017.03.08-13.58.13:095][154]LogHMD: Orientation wasn't applied to a camera in frame 76950
+[2017.03.08-13.58.13:096][154]LogHMD: Orientation wasn't applied to a camera in frame 76950
+[2017.03.08-13.58.13:103][155]LogHMD: Orientation wasn't applied to a camera in frame 76951
+[2017.03.08-13.58.13:103][155]LogHMD: Orientation wasn't applied to a camera in frame 76951
+[2017.03.08-13.58.13:105][155]LogHMD: Orientation wasn't applied to a camera in frame 76951
+[2017.03.08-13.58.13:115][156]LogHMD: Orientation wasn't applied to a camera in frame 76952
+[2017.03.08-13.58.13:115][156]LogHMD: Orientation wasn't applied to a camera in frame 76952
+[2017.03.08-13.58.13:117][156]LogHMD: Orientation wasn't applied to a camera in frame 76952
+[2017.03.08-13.58.13:126][157]LogHMD: Orientation wasn't applied to a camera in frame 76953
+[2017.03.08-13.58.13:126][157]LogHMD: Orientation wasn't applied to a camera in frame 76953
+[2017.03.08-13.58.13:128][157]LogHMD: Orientation wasn't applied to a camera in frame 76953
+[2017.03.08-13.58.13:138][158]LogHMD: Orientation wasn't applied to a camera in frame 76954
+[2017.03.08-13.58.13:138][158]LogHMD: Orientation wasn't applied to a camera in frame 76954
+[2017.03.08-13.58.13:139][158]LogHMD: Orientation wasn't applied to a camera in frame 76954
+[2017.03.08-13.58.13:149][159]LogHMD: Orientation wasn't applied to a camera in frame 76955
+[2017.03.08-13.58.13:149][159]LogHMD: Orientation wasn't applied to a camera in frame 76955
+[2017.03.08-13.58.13:151][159]LogHMD: Orientation wasn't applied to a camera in frame 76955
+[2017.03.08-13.58.13:161][160]LogHMD: Orientation wasn't applied to a camera in frame 76956
+[2017.03.08-13.58.13:161][160]LogHMD: Orientation wasn't applied to a camera in frame 76956
+[2017.03.08-13.58.13:162][160]LogHMD: Orientation wasn't applied to a camera in frame 76956
+[2017.03.08-13.58.13:172][161]LogHMD: Orientation wasn't applied to a camera in frame 76957
+[2017.03.08-13.58.13:172][161]LogHMD: Orientation wasn't applied to a camera in frame 76957
+[2017.03.08-13.58.13:174][161]LogHMD: Orientation wasn't applied to a camera in frame 76957
+[2017.03.08-13.58.13:184][162]LogHMD: Orientation wasn't applied to a camera in frame 76958
+[2017.03.08-13.58.13:184][162]LogHMD: Orientation wasn't applied to a camera in frame 76958
+[2017.03.08-13.58.13:186][162]LogHMD: Orientation wasn't applied to a camera in frame 76958
+[2017.03.08-13.58.13:196][163]LogHMD: Orientation wasn't applied to a camera in frame 76959
+[2017.03.08-13.58.13:196][163]LogHMD: Orientation wasn't applied to a camera in frame 76959
+[2017.03.08-13.58.13:197][163]LogHMD: Orientation wasn't applied to a camera in frame 76959
+[2017.03.08-13.58.13:207][164]LogHMD: Orientation wasn't applied to a camera in frame 76960
+[2017.03.08-13.58.13:207][164]LogHMD: Orientation wasn't applied to a camera in frame 76960
+[2017.03.08-13.58.13:209][164]LogHMD: Orientation wasn't applied to a camera in frame 76960
+[2017.03.08-13.58.13:219][165]LogHMD: Orientation wasn't applied to a camera in frame 76961
+[2017.03.08-13.58.13:219][165]LogHMD: Orientation wasn't applied to a camera in frame 76961
+[2017.03.08-13.58.13:220][165]LogHMD: Orientation wasn't applied to a camera in frame 76961
+[2017.03.08-13.58.13:230][166]LogHMD: Orientation wasn't applied to a camera in frame 76962
+[2017.03.08-13.58.13:230][166]LogHMD: Orientation wasn't applied to a camera in frame 76962
+[2017.03.08-13.58.13:231][166]LogHMD: Orientation wasn't applied to a camera in frame 76962
+[2017.03.08-13.58.13:241][167]LogHMD: Orientation wasn't applied to a camera in frame 76963
+[2017.03.08-13.58.13:241][167]LogHMD: Orientation wasn't applied to a camera in frame 76963
+[2017.03.08-13.58.13:243][167]LogHMD: Orientation wasn't applied to a camera in frame 76963
+[2017.03.08-13.58.13:252][168]LogHMD: Orientation wasn't applied to a camera in frame 76964
+[2017.03.08-13.58.13:253][168]LogHMD: Orientation wasn't applied to a camera in frame 76964
+[2017.03.08-13.58.13:254][168]LogHMD: Orientation wasn't applied to a camera in frame 76964
+[2017.03.08-13.58.13:264][169]LogHMD: Orientation wasn't applied to a camera in frame 76965
+[2017.03.08-13.58.13:264][169]LogHMD: Orientation wasn't applied to a camera in frame 76965
+[2017.03.08-13.58.13:265][169]LogHMD: Orientation wasn't applied to a camera in frame 76965
+[2017.03.08-13.58.13:275][170]LogHMD: Orientation wasn't applied to a camera in frame 76966
+[2017.03.08-13.58.13:275][170]LogHMD: Orientation wasn't applied to a camera in frame 76966
+[2017.03.08-13.58.13:276][170]LogHMD: Orientation wasn't applied to a camera in frame 76966
+[2017.03.08-13.58.13:286][171]LogHMD: Orientation wasn't applied to a camera in frame 76967
+[2017.03.08-13.58.13:286][171]LogHMD: Orientation wasn't applied to a camera in frame 76967
+[2017.03.08-13.58.13:287][171]LogHMD: Orientation wasn't applied to a camera in frame 76967
+[2017.03.08-13.58.13:297][172]LogHMD: Orientation wasn't applied to a camera in frame 76968
+[2017.03.08-13.58.13:297][172]LogHMD: Orientation wasn't applied to a camera in frame 76968
+[2017.03.08-13.58.13:299][172]LogHMD: Orientation wasn't applied to a camera in frame 76968
+[2017.03.08-13.58.13:309][173]LogHMD: Orientation wasn't applied to a camera in frame 76969
+[2017.03.08-13.58.13:309][173]LogHMD: Orientation wasn't applied to a camera in frame 76969
+[2017.03.08-13.58.13:310][173]LogHMD: Orientation wasn't applied to a camera in frame 76969
+[2017.03.08-13.58.13:320][174]LogHMD: Orientation wasn't applied to a camera in frame 76970
+[2017.03.08-13.58.13:320][174]LogHMD: Orientation wasn't applied to a camera in frame 76970
+[2017.03.08-13.58.13:321][174]LogHMD: Orientation wasn't applied to a camera in frame 76970
+[2017.03.08-13.58.13:331][175]LogHMD: Orientation wasn't applied to a camera in frame 76971
+[2017.03.08-13.58.13:331][175]LogHMD: Orientation wasn't applied to a camera in frame 76971
+[2017.03.08-13.58.13:333][175]LogHMD: Orientation wasn't applied to a camera in frame 76971
+[2017.03.08-13.58.13:342][176]LogHMD: Orientation wasn't applied to a camera in frame 76972
+[2017.03.08-13.58.13:342][176]LogHMD: Orientation wasn't applied to a camera in frame 76972
+[2017.03.08-13.58.13:343][176]LogHMD: Orientation wasn't applied to a camera in frame 76972
+[2017.03.08-13.58.13:354][177]LogHMD: Orientation wasn't applied to a camera in frame 76973
+[2017.03.08-13.58.13:354][177]LogHMD: Orientation wasn't applied to a camera in frame 76973
+[2017.03.08-13.58.13:355][177]LogHMD: Orientation wasn't applied to a camera in frame 76973
+[2017.03.08-13.58.13:365][178]LogHMD: Orientation wasn't applied to a camera in frame 76974
+[2017.03.08-13.58.13:365][178]LogHMD: Orientation wasn't applied to a camera in frame 76974
+[2017.03.08-13.58.13:366][178]LogHMD: Orientation wasn't applied to a camera in frame 76974
+[2017.03.08-13.58.13:376][179]LogHMD: Orientation wasn't applied to a camera in frame 76975
+[2017.03.08-13.58.13:376][179]LogHMD: Orientation wasn't applied to a camera in frame 76975
+[2017.03.08-13.58.13:377][179]LogHMD: Orientation wasn't applied to a camera in frame 76975
+[2017.03.08-13.58.13:387][180]LogHMD: Orientation wasn't applied to a camera in frame 76976
+[2017.03.08-13.58.13:387][180]LogHMD: Orientation wasn't applied to a camera in frame 76976
+[2017.03.08-13.58.13:388][180]LogHMD: Orientation wasn't applied to a camera in frame 76976
+[2017.03.08-13.58.13:398][181]LogHMD: Orientation wasn't applied to a camera in frame 76977
+[2017.03.08-13.58.13:398][181]LogHMD: Orientation wasn't applied to a camera in frame 76977
+[2017.03.08-13.58.13:399][181]LogHMD: Orientation wasn't applied to a camera in frame 76977
+[2017.03.08-13.58.13:409][182]LogHMD: Orientation wasn't applied to a camera in frame 76978
+[2017.03.08-13.58.13:409][182]LogHMD: Orientation wasn't applied to a camera in frame 76978
+[2017.03.08-13.58.13:410][182]LogHMD: Orientation wasn't applied to a camera in frame 76978
+[2017.03.08-13.58.13:420][183]LogHMD: Orientation wasn't applied to a camera in frame 76979
+[2017.03.08-13.58.13:420][183]LogHMD: Orientation wasn't applied to a camera in frame 76979
+[2017.03.08-13.58.13:421][183]LogHMD: Orientation wasn't applied to a camera in frame 76979
+[2017.03.08-13.58.13:431][184]LogHMD: Orientation wasn't applied to a camera in frame 76980
+[2017.03.08-13.58.13:431][184]LogHMD: Orientation wasn't applied to a camera in frame 76980
+[2017.03.08-13.58.13:432][184]LogHMD: Orientation wasn't applied to a camera in frame 76980
+[2017.03.08-13.58.13:443][185]LogHMD: Orientation wasn't applied to a camera in frame 76981
+[2017.03.08-13.58.13:443][185]LogHMD: Orientation wasn't applied to a camera in frame 76981
+[2017.03.08-13.58.13:444][185]LogHMD: Orientation wasn't applied to a camera in frame 76981
+[2017.03.08-13.58.13:454][186]LogHMD: Orientation wasn't applied to a camera in frame 76982
+[2017.03.08-13.58.13:454][186]LogHMD: Orientation wasn't applied to a camera in frame 76982
+[2017.03.08-13.58.13:455][186]LogHMD: Orientation wasn't applied to a camera in frame 76982
+[2017.03.08-13.58.13:465][187]LogHMD: Orientation wasn't applied to a camera in frame 76983
+[2017.03.08-13.58.13:465][187]LogHMD: Orientation wasn't applied to a camera in frame 76983
+[2017.03.08-13.58.13:466][187]LogHMD: Orientation wasn't applied to a camera in frame 76983
+[2017.03.08-13.58.13:476][188]LogHMD: Orientation wasn't applied to a camera in frame 76984
+[2017.03.08-13.58.13:476][188]LogHMD: Orientation wasn't applied to a camera in frame 76984
+[2017.03.08-13.58.13:477][188]LogHMD: Orientation wasn't applied to a camera in frame 76984
+[2017.03.08-13.58.13:487][189]LogHMD: Orientation wasn't applied to a camera in frame 76985
+[2017.03.08-13.58.13:487][189]LogHMD: Orientation wasn't applied to a camera in frame 76985
+[2017.03.08-13.58.13:488][189]LogHMD: Orientation wasn't applied to a camera in frame 76985
+[2017.03.08-13.58.13:498][190]LogHMD: Orientation wasn't applied to a camera in frame 76986
+[2017.03.08-13.58.13:498][190]LogHMD: Orientation wasn't applied to a camera in frame 76986
+[2017.03.08-13.58.13:499][190]LogHMD: Orientation wasn't applied to a camera in frame 76986
+[2017.03.08-13.58.13:509][191]LogHMD: Orientation wasn't applied to a camera in frame 76987
+[2017.03.08-13.58.13:509][191]LogHMD: Orientation wasn't applied to a camera in frame 76987
+[2017.03.08-13.58.13:510][191]LogHMD: Orientation wasn't applied to a camera in frame 76987
+[2017.03.08-13.58.13:520][192]LogHMD: Orientation wasn't applied to a camera in frame 76988
+[2017.03.08-13.58.13:520][192]LogHMD: Orientation wasn't applied to a camera in frame 76988
+[2017.03.08-13.58.13:522][192]LogHMD: Orientation wasn't applied to a camera in frame 76988
+[2017.03.08-13.58.13:531][193]LogHMD: Orientation wasn't applied to a camera in frame 76989
+[2017.03.08-13.58.13:531][193]LogHMD: Orientation wasn't applied to a camera in frame 76989
+[2017.03.08-13.58.13:533][193]LogHMD: Orientation wasn't applied to a camera in frame 76989
+[2017.03.08-13.58.13:542][194]LogHMD: Orientation wasn't applied to a camera in frame 76990
+[2017.03.08-13.58.13:543][194]LogHMD: Orientation wasn't applied to a camera in frame 76990
+[2017.03.08-13.58.13:544][194]LogHMD: Orientation wasn't applied to a camera in frame 76990
+[2017.03.08-13.58.13:554][195]LogHMD: Orientation wasn't applied to a camera in frame 76991
+[2017.03.08-13.58.13:554][195]LogHMD: Orientation wasn't applied to a camera in frame 76991
+[2017.03.08-13.58.13:555][195]LogHMD: Orientation wasn't applied to a camera in frame 76991
+[2017.03.08-13.58.13:565][196]LogHMD: Orientation wasn't applied to a camera in frame 76992
+[2017.03.08-13.58.13:565][196]LogHMD: Orientation wasn't applied to a camera in frame 76992
+[2017.03.08-13.58.13:566][196]LogHMD: Orientation wasn't applied to a camera in frame 76992
+[2017.03.08-13.58.13:576][197]LogHMD: Orientation wasn't applied to a camera in frame 76993
+[2017.03.08-13.58.13:576][197]LogHMD: Orientation wasn't applied to a camera in frame 76993
+[2017.03.08-13.58.13:577][197]LogHMD: Orientation wasn't applied to a camera in frame 76993
+[2017.03.08-13.58.13:587][198]LogHMD: Orientation wasn't applied to a camera in frame 76994
+[2017.03.08-13.58.13:587][198]LogHMD: Orientation wasn't applied to a camera in frame 76994
+[2017.03.08-13.58.13:588][198]LogHMD: Orientation wasn't applied to a camera in frame 76994
+[2017.03.08-13.58.13:598][199]LogHMD: Orientation wasn't applied to a camera in frame 76995
+[2017.03.08-13.58.13:598][199]LogHMD: Orientation wasn't applied to a camera in frame 76995
+[2017.03.08-13.58.13:599][199]LogHMD: Orientation wasn't applied to a camera in frame 76995
+[2017.03.08-13.58.13:609][200]LogHMD: Orientation wasn't applied to a camera in frame 76996
+[2017.03.08-13.58.13:609][200]LogHMD: Orientation wasn't applied to a camera in frame 76996
+[2017.03.08-13.58.13:610][200]LogHMD: Orientation wasn't applied to a camera in frame 76996
+[2017.03.08-13.58.13:620][201]LogHMD: Orientation wasn't applied to a camera in frame 76997
+[2017.03.08-13.58.13:620][201]LogHMD: Orientation wasn't applied to a camera in frame 76997
+[2017.03.08-13.58.13:621][201]LogHMD: Orientation wasn't applied to a camera in frame 76997
+[2017.03.08-13.58.13:631][202]LogHMD: Orientation wasn't applied to a camera in frame 76998
+[2017.03.08-13.58.13:631][202]LogHMD: Orientation wasn't applied to a camera in frame 76998
+[2017.03.08-13.58.13:633][202]LogHMD: Orientation wasn't applied to a camera in frame 76998
+[2017.03.08-13.58.13:642][203]LogHMD: Orientation wasn't applied to a camera in frame 76999
+[2017.03.08-13.58.13:643][203]LogHMD: Orientation wasn't applied to a camera in frame 76999
+[2017.03.08-13.58.13:644][203]LogHMD: Orientation wasn't applied to a camera in frame 76999
+[2017.03.08-13.58.13:654][204]LogHMD: Orientation wasn't applied to a camera in frame 77000
+[2017.03.08-13.58.13:654][204]LogHMD: Orientation wasn't applied to a camera in frame 77000
+[2017.03.08-13.58.13:655][204]LogHMD: Orientation wasn't applied to a camera in frame 77000
+[2017.03.08-13.58.13:665][205]LogHMD: Orientation wasn't applied to a camera in frame 77001
+[2017.03.08-13.58.13:665][205]LogHMD: Orientation wasn't applied to a camera in frame 77001
+[2017.03.08-13.58.13:666][205]LogHMD: Orientation wasn't applied to a camera in frame 77001
+[2017.03.08-13.58.13:676][206]LogHMD: Orientation wasn't applied to a camera in frame 77002
+[2017.03.08-13.58.13:676][206]LogHMD: Orientation wasn't applied to a camera in frame 77002
+[2017.03.08-13.58.13:677][206]LogHMD: Orientation wasn't applied to a camera in frame 77002
+[2017.03.08-13.58.13:687][207]LogHMD: Orientation wasn't applied to a camera in frame 77003
+[2017.03.08-13.58.13:687][207]LogHMD: Orientation wasn't applied to a camera in frame 77003
+[2017.03.08-13.58.13:689][207]LogHMD: Orientation wasn't applied to a camera in frame 77003
+[2017.03.08-13.58.13:698][208]LogHMD: Orientation wasn't applied to a camera in frame 77004
+[2017.03.08-13.58.13:698][208]LogHMD: Orientation wasn't applied to a camera in frame 77004
+[2017.03.08-13.58.13:700][208]LogHMD: Orientation wasn't applied to a camera in frame 77004
+[2017.03.08-13.58.13:709][209]LogHMD: Orientation wasn't applied to a camera in frame 77005
+[2017.03.08-13.58.13:710][209]LogHMD: Orientation wasn't applied to a camera in frame 77005
+[2017.03.08-13.58.13:711][209]LogHMD: Orientation wasn't applied to a camera in frame 77005
+[2017.03.08-13.58.13:720][210]LogHMD: Orientation wasn't applied to a camera in frame 77006
+[2017.03.08-13.58.13:721][210]LogHMD: Orientation wasn't applied to a camera in frame 77006
+[2017.03.08-13.58.13:722][210]LogHMD: Orientation wasn't applied to a camera in frame 77006
+[2017.03.08-13.58.13:732][211]LogHMD: Orientation wasn't applied to a camera in frame 77007
+[2017.03.08-13.58.13:732][211]LogHMD: Orientation wasn't applied to a camera in frame 77007
+[2017.03.08-13.58.13:733][211]LogHMD: Orientation wasn't applied to a camera in frame 77007
+[2017.03.08-13.58.13:743][212]LogHMD: Orientation wasn't applied to a camera in frame 77008
+[2017.03.08-13.58.13:743][212]LogHMD: Orientation wasn't applied to a camera in frame 77008
+[2017.03.08-13.58.13:744][212]LogHMD: Orientation wasn't applied to a camera in frame 77008
+[2017.03.08-13.58.13:754][213]LogHMD: Orientation wasn't applied to a camera in frame 77009
+[2017.03.08-13.58.13:754][213]LogHMD: Orientation wasn't applied to a camera in frame 77009
+[2017.03.08-13.58.13:755][213]LogHMD: Orientation wasn't applied to a camera in frame 77009
+[2017.03.08-13.58.13:765][214]LogHMD: Orientation wasn't applied to a camera in frame 77010
+[2017.03.08-13.58.13:765][214]LogHMD: Orientation wasn't applied to a camera in frame 77010
+[2017.03.08-13.58.13:766][214]LogHMD: Orientation wasn't applied to a camera in frame 77010
+[2017.03.08-13.58.13:776][215]LogHMD: Orientation wasn't applied to a camera in frame 77011
+[2017.03.08-13.58.13:776][215]LogHMD: Orientation wasn't applied to a camera in frame 77011
+[2017.03.08-13.58.13:777][215]LogHMD: Orientation wasn't applied to a camera in frame 77011
+[2017.03.08-13.58.13:787][216]LogHMD: Orientation wasn't applied to a camera in frame 77012
+[2017.03.08-13.58.13:787][216]LogHMD: Orientation wasn't applied to a camera in frame 77012
+[2017.03.08-13.58.13:788][216]LogHMD: Orientation wasn't applied to a camera in frame 77012
+[2017.03.08-13.58.13:798][217]LogHMD: Orientation wasn't applied to a camera in frame 77013
+[2017.03.08-13.58.13:798][217]LogHMD: Orientation wasn't applied to a camera in frame 77013
+[2017.03.08-13.58.13:800][217]LogHMD: Orientation wasn't applied to a camera in frame 77013
+[2017.03.08-13.58.13:809][218]LogHMD: Orientation wasn't applied to a camera in frame 77014
+[2017.03.08-13.58.13:810][218]LogHMD: Orientation wasn't applied to a camera in frame 77014
+[2017.03.08-13.58.13:811][218]LogHMD: Orientation wasn't applied to a camera in frame 77014
+[2017.03.08-13.58.13:820][219]LogHMD: Orientation wasn't applied to a camera in frame 77015
+[2017.03.08-13.58.13:820][219]LogHMD: Orientation wasn't applied to a camera in frame 77015
+[2017.03.08-13.58.13:822][219]LogHMD: Orientation wasn't applied to a camera in frame 77015
+[2017.03.08-13.58.13:832][220]LogHMD: Orientation wasn't applied to a camera in frame 77016
+[2017.03.08-13.58.13:832][220]LogHMD: Orientation wasn't applied to a camera in frame 77016
+[2017.03.08-13.58.13:833][220]LogHMD: Orientation wasn't applied to a camera in frame 77016
+[2017.03.08-13.58.16:255][438]LogBlueprintUserMessages: [Teapot_PlayerController_C_0] H Pressed
+[2017.03.08-13.58.16:255][438]LogBlueprintUserMessages: [Teapot_GameInstance_C_6] Succeded creating session
+[2017.03.08-13.58.16:265][439]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.08-13.58.16:265][439]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.08-13.58.16:266][439]LogNet: Browse: /Game/Teapot_Content/Maps/Teapot_Level_Test2?listen
+[2017.03.08-13.58.16:266][439]LogLoadingSplash: Loading begins
+[2017.03.08-13.58.16:277][439]LogHMD: Allocated a new swap texture set (size 16 x 16, mipcount = 5), 0x00000214A93BCAD0
+[2017.03.08-13.58.16:287][439]LogHMD: FOculusRiftSplash::Tick, DELTA > 0.5 secs, ie: 0.0110 1835.7211
+[2017.03.08-13.58.16:298][439]LogHMD: FOculusRiftSplash::PushBlackFrame
+[2017.03.08-13.58.16:298][439]LogHMD: FOculusRiftSplash::Show
+[2017.03.08-13.58.16:298][439]LogLoad: LoadMap: /Game/Teapot_Content/Maps/Teapot_Level_Test2?listen
+[2017.03.08-13.58.16:318][439]Cmd: MEM
+[2017.03.08-13.58.16:337][439]LogMemory: Platform Memory Stats for Windows
+[2017.03.08-13.58.16:337][439]LogMemory: Process Physical Memory: 2141.58 MB used, 2402.27 MB peak
+[2017.03.08-13.58.16:337][439]LogMemory: Process Virtual Memory: 3783.11 MB used, 4127.45 MB peak
+[2017.03.08-13.58.16:337][439]LogMemory: Physical Memory: 6109.25 MB used,  10216.73 MB free, 16325.98 MB total
+[2017.03.08-13.58.16:337][439]LogMemory: Virtual Memory: 5032.90 MB used,  10216.73 MB free, 134217728.00 MB total
+[2017.03.08-13.58.16:337][439]LogMemory: 
+[2017.03.08-13.58.16:337][439]Allocator Stats for TBB: (not implemented)
+[2017.03.08-13.58.16:425][439]LogAIModule: Creating AISystem for world Teapot_Level_Test2
+[2017.03.08-13.58.16:426][439]LogLoad: Game class is 'Teapot_GameMode_C'
+[2017.03.08-13.58.16:426][439]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.03.08-13.58.16:426][439]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.03.08-13.58.16:426][439]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2017.03.08-13.58.16:433][439]LogWorld: Bringing World /Game/Teapot_Content/Maps/UEDPIE_0_Teapot_Level_Test2.Teapot_Level_Test2 up for play (max tick rate 0) at 2017.03.08-14.58.16
+[2017.03.08-13.58.16:433][439]LogWorld: Bringing up level for play took: 0.005967
+[2017.03.08-13.58.16:434][439]LogBlueprintUserMessages: [Teapot_GameMode_C_0] Server: OnPostLogin
+[2017.03.08-13.58.16:434][439]LogBlueprintUserMessages: [Teapot_GameMode_C_0] Server: Spawning Pawn
+[2017.03.08-13.58.16:434][439]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.16:434][439]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.08-13.58.16:434][439]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.16:435][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:435][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:435][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:435][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:435][439]LogBlueprint:Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2017.03.08-13.58.16:436][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:436][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:436][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:437][439]LogUnrealMath:Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.03.08-13.58.16:437][439]LogBlueprint:Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2017.03.08-13.58.16:437][439]Cmd: stat FPS
+[2017.03.08-13.58.16:437][439]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.08-13.58.16:437][439]LogLoadingSplash: Loading ends
+[2017.03.08-13.58.16:437][439]LogHMD: FOculusRiftSplash::Hide
+[2017.03.08-13.58.16:438][439]LogHMD: Freeing textureSet 0x00000214A93BCAD0
+[2017.03.08-13.58.16:440][439]LogHMD: Allocated a new swap texture set (size 16 x 16, mipcount = 5), 0x00000214A93BE180
+[2017.03.08-13.58.16:443][439]LogHMD: FOculusRiftSplash::PushBlackFrame
+[2017.03.08-13.58.16:443][439]LogLoad: Took 0.144807 seconds to LoadMap(/Game/Teapot_Content/Maps/Teapot_Level_Test2)
+[2017.03.08-13.58.45:594][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.45:600][ 58]LogHMD: Destroying ovr session
+[2017.03.08-13.58.45:600][ 58]LogHMD: Freeing textureSet 0x00000214A93BE180
+[2017.03.08-13.58.45:600][ 58]LogHMD: Freeing textureSet 0x00000215012291C0
+[2017.03.08-13.58.45:696][ 58]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.03.08-13.58.45:697][ 58]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.03.08-13.58.45:697][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby' with GeneratedClass '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby_C' with ClassGeneratedBy '/Game/Teapot_Content/Maps/Teapot_Level_Lobby.Teapot_Level_Lobby:PersistentLevel.Teapot_Level_Lobby'
+[2017.03.08-13.58.45:715][ 58]LogExit: GameNetDriver None shut down
+[2017.03.08-13.58.45:734][ 59]LogPlayLevel:Display: Destroying online subsystem :Context_20
+[2017.03.08-13.58.45:734][ 59]LogOnline:Display: OSS: FOnlineSubsystemNull::Shutdown()
