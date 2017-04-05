@@ -37,3 +37,6 @@ Credit authour, link: http://www.blendswap.com/blends/view/84753
 Teapot_Mesh_Barrier01
 Teapot_Mesh_Barrier02
 No onligations, link: http://www.blendswap.com/blends/view/84804
+
+Teapot_Mesh_Flashlight
+Credit author, link: http://www.blendswap.com/blends/view/72647
