@@ -40,9 +40,3 @@ No onligations, link: http://www.blendswap.com/blends/view/84804
 
 Teapot_Mesh_Flashlight
 Credit author, link: http://www.blendswap.com/blends/view/72647
-
-Teapot_Mesh_Battery
-Credit author, link: http://www.blendswap.com/blends/view/84073
-
-Teapot_Mesh_Generator
-Credit author, link: http://www.blendswap.com/blends/view/68694
