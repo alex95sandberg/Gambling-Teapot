@@ -40,3 +40,6 @@ No onligations, link: http://www.blendswap.com/blends/view/84804
 
 Teapot_Mesh_Flashlight
 Credit author, link: http://www.blendswap.com/blends/view/72647
+
+Teapot_Mesh_Hat
+No obligations, link: http://www.blendswap.com/blends/view/82955
